@@ -1,0 +1,141 @@
+body {
+    overflow-x:hidden;
+}
+.border-right {
+	border-right: 1px solid #C9C1D5;
+}
+.table-border-right {
+	border-right: 1px solid #c3c3c3;
+}
+.header-borer-right {
+	border-right: 1px solid #D6D6D6;
+}
+.column-borer-right {
+	border-right: 1px solid #D6D6D6;
+ min-height: 270px;
+}
+.text-deep-orange {
+	color: #D28123;
+}
+.f15 {
+	font-size: 14px;
+}
+.m-t42 {
+	margin-top: 32px;
+}
+.normal {
+	font-weight: normal;
+	font-size: 20px;
+}
+.circle-icon {
+    background: #00A5CE;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 10px;
+}
+.circle-icon2 {
+    background: #D78227;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.main{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left:30px;
+	padding-right:30px;
+	
+}
+.round{	
+  min-height: 60px;
+  min-width:  60px;
+  border-radius: 50%;
+  display: inline-block;
+
+
+}
+.male {
+	color: #386cb0;
+}
+.female {
+	color: #d68227;
+}
+.table{
+	padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgba(86,61,124,.15);
+    /* border: 1px solid rgba(86,61,124,.2); */
+}
+.popchart{
+	min-height: 250px;
+	background-color: ;
+	border-right: 1px solid gray;
+}
+.line{
+    position: absolute;
+    margin-left: 22px;
+    margin-top: 12px;
+    height: 215px;
+    background: #000;
+    width: 1px;
+
+}
+.list{
+	position: relative;
+	margin-right: 10px;
+}
+.middle{
+	width: 45%;
+}
+table {
+    background-color: blue;
+    color: white;
+} 
+
+
+
+.table-light td,.recent thead td{
+	border-color: #b9b9b9;
+}
+/* visit */
+.visit {
+	border: none !important;
+}
+.visit .card-header {
+	border-bottom: none !important;
+
+}
+.visit .card-header:first-child {
+	border-radius: 0px !important;
+}
+/* officer */
+
+.officer {
+	border: none !important;
+}
+.officer .card-header {
+	background-color: #fff !important;
+	border-bottom: none !important;
+}
+.officer .card-body {
+	border: 1px solid #e2e2e2 !important;
+}
+.recent_list {
+    padding: 3px 14px 0px 14px;
+    border: 1px solid #e2e2e2;
+}
+.recent_list p {
+	margin-bottom: 9px;
+}
+.recent_list li:last-child {
+	margin-bottom: 0px;
+}
